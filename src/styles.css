@@ -78,3 +78,69 @@ button{
 .download-btn:hover{
     background-color: rgba(51, 137, 51, 0.84);
 }
+
+
+@media screen and (max-width:510px) {
+    
+    .app-container h1{
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .generate-btn{
+        margin-left: 25%;
+        margin-bottom: 1rem;
+    }
+
+    .download-btn{
+        margin-left: 24%;
+    }
+}
+@media screen and (max-width:427px) {
+    
+    .app-container h1{
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .generate-btn{
+        margin-left: 20%;
+        margin-bottom: 1rem;
+    }
+
+    .download-btn{
+        margin-left: 19%;
+    }
+}
+@media screen and (max-width:380px) {
+    
+    .app-container h1{
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .generate-btn{
+        margin-left: 14%;
+        margin-bottom: 1rem;
+    }
+
+    .download-btn{
+        margin-left: 13%;
+    }
+}
+@media screen and (max-width:335px) {
+    
+    .app-container h1{
+        font-weight: 300;
+        text-align: center;
+    }
+
+    .generate-btn{
+        margin-left: 5%;
+        margin-bottom: 1rem;
+    }
+
+    .download-btn{
+        margin-left: 3%;
+    }
+}
