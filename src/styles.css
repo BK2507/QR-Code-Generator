@@ -104,12 +104,12 @@ button{
     }
 
     .generate-btn{
-        margin-left: 20%;
+        margin-left: 15%;
         margin-bottom: 1rem;
     }
 
     .download-btn{
-        margin-left: 19%;
+        margin-left: 14%;
     }
 }
 @media screen and (max-width:380px) {
